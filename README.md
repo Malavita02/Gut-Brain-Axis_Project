@@ -47,5 +47,4 @@ The following references were used in this project:
 
 15. R. D. Ward et al., “Dissociation of hedonic reaction to reward and incentive motivation in an animal model of the negative symptoms of schizophrenia,” Neuropsychopharmacology, vol. 37, pp. 1699–1707, 2012.
 
-Please make sure to include appropriate references and citations when using this project for your own research.
 
